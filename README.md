@@ -6,7 +6,7 @@
 ### Datos Personales
 - Mi nombre es: Alejandro D. Riobó
 - Vivo en Hurlingham
-![](./UNAHUR.png)
+![Anotación 2025-03-29 112151.png](./UNAHUR.png)
 
 
 ### Otra Información
