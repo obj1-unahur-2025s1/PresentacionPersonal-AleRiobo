@@ -12,5 +12,5 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Baphomet
+- Tengo un gato que se llama Baphy
 - Me gusta dibujar escuchando musica
